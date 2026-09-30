@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Imagem do Banner / Header -->
-  <img src="URL_DO_SEU_BANNER.png" alt="Header Banner" width="100%" />
+  <img src="./1772665602173.jpg" alt="Header Banner" width="100%" />
 
   <br><br>
   <code>Welcome to my profile.</code>
