@@ -2,7 +2,10 @@
   <img src="./1772665602173.jpg" alt="Header Banner" width="100%" />
 
   <br><br>
-  <code>Welcome to my profile.</code>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile.;Contact+me+for+questions." alt="Typing SVG" />
+  </a>
 </div>
 
 ### Hello there! My name is Marcus. I am currently majoring in Software Engineering. 💻
