@@ -48,10 +48,8 @@ Currently exploring low-level optimization and AI workflows.
 
 ---
 
-### 👾 Contribution Graph (Pac-Man / Snake)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MvJuneau21/MvJuneau21/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MvJuneau21/MvJuneau21/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MvJuneau21/MvJuneau21/output/github-snake.svg">
 </picture>
