@@ -5,7 +5,7 @@
   <code>Welcome to my profile.</code>
 </div>
 
-### Hello there! My name is Marcus. I am currently majoring in Computer/Telecom Engineering. 💻
+### Hello there! My name is Marcus. I am currently majoring in Software Engineering. 💻
 
 ### 🎭 About me
 
@@ -13,7 +13,7 @@ Software Engineering student at INATEL with interest in back-end development, ga
 
 Most of my academic and personal projects are built using C++, Python, and Java. Also experienced with Git/GitHub, APIs, and databases.
 
-Currently exploring game engines, low-level optimization, and AI workflows.
+Currently exploring low-level optimization and AI workflows.
 
 ---
 
